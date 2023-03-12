@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4b74e847-fcc2-4621-ab09-8460c825d229" name="whatsAppBot" url="https://danylomaria.dev.yeducoders.com/">
+        <fileTransfer rootFolder="/home/Dan_Savchenko/web/danylomaria.dev.yeducoders.com/public_html" accessType="SFTP" host="danylomaria.dev.yeducoders.com" port="22125" sshConfigId="0d96f600-f72f-4bed-b213-ed674002d372" sshConfig="Dan_Savchenko@danylomaria.dev.yeducoders.com:22125 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

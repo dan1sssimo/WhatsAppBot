@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ultramsg/whatsapp-php-sdk": "^2.0"
+    }
+}

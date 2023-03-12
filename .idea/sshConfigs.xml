@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="danylomaria.dev.yeducoders.com" id="0d96f600-f72f-4bed-b213-ed674002d372" port="22125" nameFormat="DESCRIPTIVE" username="Dan_Savchenko" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>
